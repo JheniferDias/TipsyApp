@@ -18,7 +18,7 @@ Este é um repositório público exemplificando um aplicativo para cálculo de g
 ## Autor
 
 <h5>Jhenifer Dias | iOS Developer</h5>
-<img src="https://avatars.githubusercontent.com/u/44243456?s=400&u=b585631da49e210e369173b5a31610e1adbb2484&v=4" style="border: none; border-radius:50%" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/109098776?s=400&u=bd08a848af49921cf44b4a20d662867b8932cd3e&v=4" style="border: none; border-radius:50%" width="100" height="100">
 <a href="https://www.linkedin.com/in/jhenifer-dias-91205b16b/"><img align="left" alt="Jhenifer Dias | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 
