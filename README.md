@@ -10,6 +10,10 @@ Projeto desenvolvido como desafio durante o curso de desenvolvimento iOS da Udem
 
 Este é um repositório público exemplificando um aplicativo para cálculo de gorjetas seguindo a arquitetura MVC.
 
+<p align="center">
+<img src="https://i.ibb.co/WKd4fPb/Simulator-Screen-Shot-i-Phone-13-Pro-2022-07-17-at-17-08-50.png" width="300" height="649" />
+</p>
+
 ## Requerimentos
 
 - Xcode 13.1
